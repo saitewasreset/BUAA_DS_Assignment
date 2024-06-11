@@ -1,0 +1,51 @@
+0000000  1f                                                 Len = 31
+0000001  00  08  b6                                         NUL ASCII = 0   Len = 8 Code = 10110110
+0000004  20  02  00                                         SP  ASCII = 32  Len = 2 Code = 00
+0000007  2e  06  90                                         .   ASCII = 46  Len = 6 Code = 100100  
+000000A  3b  06  60                                         ;   ASCII = 59  Len = 6 Code = 011000  
+000000D  44  06  94                                         D   ASCII = 68  Len = 6 Code = 100101
+0000010  45  08  b7                                         E   ASCII = 69  Len = 8 Code = 10110111
+0000013  49  08  d0                                         I   ASCII = 73  Len = 8 Code = 11010000  
+0000016  52  08  d1                                         R   ASCII = 82  Len = 8 Code = 11010001  
+0000019  61  04  a0                                         a   ASCII = 97  Len = 4 Code = 1010  
+000001C  62  07  b0                                         b   ASCII = 98  Len = 7 Code = 1011000  
+000001F  63  07  b2                                         c   ASCII = 99  Len = 7 Code = 1011001  
+0000022  64  06  d4                                         d   ASCII = 100 Len = 6 Code = 110101  
+0000025  65  04  f0                                         e   ASCII = 101 Len = 4 Code = 1111  
+0000028  66  07  b4                                         f   ASCII = 102 Len = 7 Code = 1011010  
+000002B  67  06  e8                                         g   ASCII = 103 Len = 6 Code = 111010 
+000002E  68  05  b8                                         h   ASCII = 104 Len = 5 Code = 10111  
+0000031  69  05  70                                         i   ASCII = 105 Len = 5 Code = 01110  
+0000034  6b  08  d2                                         k   ASCII = 107 Len = 8 Code = 11010010  
+0000037  6c  05  d8                                         l   ASCII = 108 Len = 5 Code = 11011  
+000003A  6d  06  ec                                         m   ASCII = 109 Len = 6 Code = 111011  
+000003D  6e  05  e0                                         n   ASCII = 110 Len = 5 Code = 11100
+0000040  6f  03  40                                         o   ASCII = 111 Len = 3 Code = 010  
+0000043  70  06  98                                         p   ASCII = 112 Len = 6 Code = 100110  
+0000046  72  05  78                                         r   ASCII = 114 Len = 5 Code = 01111  
+0000049  73  05  80                                         s   ASCII = 115 Len = 5 Code = 100000  
+000004C  74  04  c0                                         t   ASCII = 116 Len = 4 Code = 1100  
+000004F  75  05  88                                         u   ASCII = 117 Len = 5 Code = 10001  
+0000052  76  06  9c                                         v   ASCII = 118 Len = 6 Code = 100111  
+0000055  77  06  64                                         w   ASCII = 119 Len = 6 Code = 011001  
+0000058  78  08  d3                                         x   ASCII = 120 Len = 8 Code = 11010011 
+000005B  79  05  68                                         y   ASCII = 121 Len = 5 Code = 01101
+
+000005E     d0       19
+            11010000 00 011001
+            I        SP w
+
+0000060     76  f6
+            01110 11011 11011 0
+            i     l     l
+
+0000061  74  e9  fc  6a  89  05  df  95  ac  ee  b3  e5  58  51
+0000070  c3  6e  b5  f2  16  f5  87  69  fe  3d  47  ab  d7  5e  c1  2a
+0000080  3b  4f  f3  2f  5c  16  5f  df  03  f4  e6  fb  38  35  44  c4
+0000090  6a  8a  e6  a6  a8  76  13  53  b9  06  0d  1f  ef  fb  b1  ef
+00000a0  19  bd  61  b7  5a  f3  3f  7b  80  d5  16  09  51  c5  86  56
+00000b0  97  98  8b  fd  3f  0f  9f  de  d3  2e  ee  74  35  44  bf  d3
+00000c0  e4  25  47  16  10  9b  f9  a9  5b  d9  97  ac  1a  a2  5e  a7
+00000d0  f9  09  51  c5  84  37  ff  31  50  36  b9  d1  50  1a  a2  33
+00000e0  5c  c9  2d  80                                                
+00000e4

@@ -1,0 +1,73 @@
+graph G {
+    node [shape = circle;];
+    1 [label = "";];
+    2 [label = "";];
+    3 [label = "";];
+    4 [label = "";];
+    5 [label = "";];
+    6 [label = "";];
+    7 [label = "";];
+    8 [label = "";];
+    9 [label = "e";];
+    10 [label = "";];
+    11 [label = "SP";];
+    12 [label = "";];
+    13 [label = "";];
+    14 [label = "";];
+    15 [label = "";];
+    16 [label = "k";];
+    17 [label = "s";];
+    18 [label = "t";];
+    19 [label = "!";];
+    20 [label = "a";];
+    21 [label = "c";];
+    22 [label = "n";];
+    23 [label = "o";];
+    24 [label = "r";];
+    25 [label = "";];
+    26 [label = "";];
+    27 [label = "";];
+    28 [label = "EOF";];
+    29 [label = "R";];
+    30 [label = "W";];
+    31 [label = "d";];
+    32 [label = "h";];
+    33 [label = "i";];
+    
+    1 -- 2 [label = "0";];
+    1 -- 3 [label = "1";];
+    
+    2 -- 4 [label = "0";];
+    2 -- 5 [label = "1";];
+    3 -- 6 [label = "0";];
+    3 -- 7 [label = "1";];
+    
+    4 -- 8 [label = "0";];
+    4 -- 9 [label = "1";];
+    5 -- 10 [label = "0";];
+    5 -- 11 [label = "1";];
+    6 -- 12 [label = "0";];
+    6 -- 13 [label = "1";];
+    7 -- 14 [label = "0";];
+    7 -- 15 [label = "1";];
+    
+    8 -- 16 [label = "0";];
+    8 -- 17 [label = "1";];
+    10 -- 18 [label = "0";];
+    10 -- 19 [label = "1";];
+    12 -- 20 [label = "0";];
+    12 -- 21 [label = "1";];
+    13 -- 22 [label = "0";];
+    13 -- 23 [label = "1";];
+    14 -- 24 [label = "0";];
+    14 -- 25 [label = "1";];
+    15 -- 26 [label = "0";];
+    15 -- 27 [label = "1";];
+    
+    25 -- 28 [label = "0";];
+    25 -- 29 [label = "1";];
+    26 -- 30 [label = "0";];
+    26 -- 31 [label = "1";];
+    27 -- 32 [label = "0";];
+    27 -- 33 [label = "1";];
+}

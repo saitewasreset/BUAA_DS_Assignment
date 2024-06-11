@@ -1,0 +1,30 @@
+8 main
+8 input
+0
+8 mysqrt
+0
+8 findA
+0
+8 findB
+8 area
+8 mysin
+0
+8 mycos
+0
+8 mysqrt
+0
+0
+0
+8 findC
+8 area
+8 mysin
+0
+0
+8 mysqrt
+8 max
+0
+0
+0
+8 output
+0
+0

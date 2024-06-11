@@ -1,0 +1,12 @@
+O(3) Input bytes: 43766928 Output bytes: 24444321
+Unit: seconds
+                            user        sys     total
+readSeek + writeSeek(C)     5.295       58.648  64.095
+readSeek + writeSeek(U)     13.839      8.397   22.264
+
+readTell + writeTell(C)     0.876       0.054   0.930    
+readTell + writeTell(U)     14.958      8.248   23.243
+
+                                        user        sys     total
+readTell + writeTell(C)                 0.873       0.043   0.916    
+readTell + writeTell(U) + Buffer        0.605       0.087   0.746
